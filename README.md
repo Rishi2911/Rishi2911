@@ -14,7 +14,7 @@
 
 <div align="center">
 
-💼 I’m currently studying at **FunctionUp School of Technology**  
+💼 I’m currently studying at **Polaris School of Technology**  
 🌱 I’m diving deeper into **DevOps, Cloud, and CI/CD Pipelines**  
 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, or Linux**  
 📘 Check out my projects [here](https://github.com/Rishi2911?tab=repositories)
