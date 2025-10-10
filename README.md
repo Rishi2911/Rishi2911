@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Rishi2911/Rishi2911/blob/main/cloudops_image.png" alt="Rushikesh Dhumal - DevOps & Cloud Engineer Banner">
+  <img src="https://github.com/Rishi2911/Rishi2911/blob/main/cloudops_image.pn" alt="Rushikesh Dhumal - DevOps & Cloud Engineer Banner">
 </p>
 
 <h1 align="center">
