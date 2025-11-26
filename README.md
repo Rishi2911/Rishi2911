@@ -18,8 +18,7 @@
 
 <div align="center">
 
-🎓 **3rd Year Computer Science Student @ Starex University, Gurugram**  
-💼 Currently at **Polaris School of Technology**  
+🎓 **3rd Year Computer Science Student @**Polaris School of Technology** Gurugram**    
 🌩️ Passionate about **DevOps | CloudOps | CI/CD | Cloud Automation**  
 🧠 Exploring **Kubernetes, Terraform, Jenkins, and Cloud Security**  
 📬 Reach me: **rushikeshdhumal7781@gmail.com**
