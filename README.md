@@ -70,7 +70,7 @@
 
 | 🚀 Project | 💡 Description | 🧰 Tech Stack |
 |------------|----------------|---------------|
-| [🐳 Dockerized Node App](https://github.com/Rishi2911/dockerized-node-app) | Containerized Node.js app using Docker Compose | Docker, Node.js |
+| [🐳 Dockerized Node App](https://github.com/Rishi2911/docker-test-app) | Containerized Node.js app using Docker Compose | Docker, Node.js |
 | [⚙️ Jenkins CI/CD Pipeline](https://github.com/Rishi2911/jenkins-pipeline-demo) | Automated CI/CD pipeline for app deployment | Jenkins, AWS EC2 |
 | [☁️ Kubernetes Deployment](https://github.com/Rishi2911/k8s-deployment-demo) | Deploying microservices on K8s | Kubernetes, Docker |
 | [🧱 Terraform Infra Setup](https://github.com/Rishi2911/terraform-aws-demo) | AWS Infrastructure as Code | Terraform, AWS |
