@@ -72,7 +72,7 @@
 | [🐳 Dockerized Node App](https://github.com/Rishi2911/docker-test-app) | Containerized Node.js app using Docker Compose | Docker, Node.js |
 | [⚙️ Jenkins CI/CD Pipeline](https://github.com/Rishi2911/jenkins-pipeline-demo) | Automated CI/CD pipeline for app deployment | Jenkins, AWS EC2 |
 | [☁️ Kubernetes Deployment](https://github.com/Rishi2911/k8s-deployment-demo) | Deploying microservices on K8s | Kubernetes, Docker |
-| [🧱 Terraform Infra Setup](https://github.com/Rishi2911/terraform-aws-demo) | AWS Infrastructure as Code | Terraform, AWS |
+| [🧱 Terraform AWS modular Infrastructure]((https://github.com/Rishi2911/terraform-aws-modular-infra)) | AWS Infrastructure as Code | Terraform, AWS |
 
 </div>
 
